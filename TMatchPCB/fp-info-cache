@@ -1,29 +1,15 @@
-6721971743220
-TMatchPCB
-CapPlate
-
-
+3349424492882
+Audio_Module
+Reverb_BTDR-1H
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-1
-1
-TMatchPCB
-SS22
-
-
+7
+7
+Audio_Module
+Reverb_BTDR-1V
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
 0
-6
-6
-TMatchPCB
-SlideSlot
-
-
-0
-0
-0
-TMatchPCB
-bnc_90_1-1337543-0_pad_combo
-BNC connector, Tyco 1-1337543-0
-
-0
-6
-2
+7
+7
