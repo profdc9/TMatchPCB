@@ -12,6 +12,7 @@ The rough guide to tuning a T-match.
 - Test the other inductor settings to see if the LED can be further dimmed (antenna better matched).  Alternate between the transmitter capacitor and inductor to minimize the LED brightness.
 - After tuning the input capacitor and inductor switch, adjust the antenna side capacitor for minimum brightness.  Once you have done this, repeat returning the transmit side capacitor and inductor.  The goal is to maximize the antenna side capacitance while achieving a good match with the transmit side capacitor and inductor tap.
 - Record which inductor tap is switched and the position of the plates as indicated by the ruled line position on the edge of the tuner plate for the transmit and antenna side capacitors.
+- Switch the tuner bridge from MEAS to BYP before transmitting.
 
 ![TMatchPCB](TMatchPCB/TMatchPCB.png)
 ![SlidePlate](SlidePlate/SlidePlate.png)
