@@ -14,5 +14,6 @@ The rough guide to tuning a T-match.
 - Record which inductor tap is switched and the position of the plates as indicated by the ruled line position on the edge of the tuner plate for the transmit and antenna side capacitors.
 - Switch the tuner bridge from MEAS to BYP before transmitting.
 
+![Picture](pics/TMatchPCB.jpg)
 ![TMatchPCB](TMatchPCB/TMatchPCB.png)
 ![SlidePlate](SlidePlate/SlidePlate.png)
